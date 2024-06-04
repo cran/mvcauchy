@@ -70,5 +70,6 @@ R implementation and documentation: Michail Tsagris \email{mtsagris@uoc.gr}.
 
 \examples{
 x <- as.matrix(iris[, 1:4])
-a <- cauchy.nb(x, x, ina = iris[, 5])
+ina <- as.numeric(iris[, 5])
+a <- mvcauchy::cauchy.nb(x, x, ina = ina)
 }

@@ -57,9 +57,9 @@ R implementation and documentation: Michail Tsagris \email{mtsagris@uoc.gr}.
 
 \examples{
 x <- as.matrix(iris[, 1:4])
-ina <- iris[, 5]
-a <- cauchy.nb(x, x, ina = ina)
-est <- cauchynb.pred(x, a$location, a$scale, a$ni)
+ina <- as.numeric(iris[, 5])
+a <- mvcauchy::cauchy.nb(x, x, ina = ina)
+est <- mvcauchy::cauchynb.pred(x, a$location, a$scale, a$ni)
 table(ina, est)
 }
 

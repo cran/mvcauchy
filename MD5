@@ -1,7 +1,7 @@
-31d6a39e36c8c076e3ef0c960d6e3b3a *DESCRIPTION
+3ebff369c5fbf99b558611ea0a418da8 *DESCRIPTION
 a72f41fe4150246a0c4e5005f36b807e *NAMESPACE
 96becc82b52f6c83dcb38685cbc4464a *R/bivcauchy.contour.R
-add44450c8cc83ca88968e8a642511e1 *R/cauchy.nb.R
+d62620950f45bb1ce212223d8cc5eca4 *R/cauchy.nb.R
 534bbf7af68734d0a8e22611575b8bde *R/cauchynb.pred.R
 a03b6d07d60cfa5cfb58fc5408cf5456 *R/cv.cauchynb.R
 a9f08007493bf5feddea80f3983d1a07 *R/cv.mvcauchyda.R
@@ -10,12 +10,12 @@ a9f08007493bf5feddea80f3983d1a07 *R/cv.mvcauchyda.R
 5126ddbf59b5d7eb33a99f22a4ff27ed *R/mvcauchy.mle.R
 91d44d0c44ec8e60e92a1bb18bd069f3 *R/rmvcauchy.R
 38ce166b863ac29da3be8853fd3c71d2 *man/bivcauchy.contour.Rd
-a1a97e7628f693e9ca5cb493871ae340 *man/cauchy.nb.Rd
-5e5cd75e24490766d80c2869eb767573 *man/cauchynb.pred.Rd
+01fd9e62454cb15f70416602a7e9d497 *man/cauchy.nb.Rd
+543d65a37e67ceb1f71a88f228379ecb *man/cauchynb.pred.Rd
 4408e8b131b6a51066fba318246714b6 *man/cv.cauchynb.Rd
 4a6d41f11bd6548ae740bc0a39d05722 *man/cv.mvcauchyda.Rd
 afb04278b5c3d67c6c1090e5ee85c014 *man/dmvcauchy.Rd
-0df599d9502a273dd2e2a6a9a1ccaa5b *man/mvcauchy-package.Rd
+c26168327a4a7a1360773cc340a2cea7 *man/mvcauchy-package.Rd
 7d5e1c3110c77d452b5e44f053e90c48 *man/mvcauchy.da.Rd
 56f3b5d36d1a816e84a4f20df296ce73 *man/mvcauchy.mle.Rd
 aead35d9d3252670413861f47ddb00c2 *man/rmvcauchy.Rd
